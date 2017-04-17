@@ -136,8 +136,8 @@ p{
 #presman{  	width: 910px; height: 600px; background-color:#00FF40; margin: 0 auto;}
 #modelos{	width: 910px; height: 2200px; background-color:#FF8000; color:white; margin: 0 auto;}
 
-/*#ubicacion{line-height:24px; margin-left:60px; margin-right:10px; }
-#Contador{line-height:200px; margin-left:700px; margin-right:0px; }*/
+#ubicacion{line-height:24px; margin-left:60px; margin-right:10px; vertical-align:top; }
+#Contador{line-height:24px; margin-left:700px; margin-right:10px; vertical-align:top; }
 
 
 #DES2{ width: 910px; height: 560px; background-color:#FF8000;  margin: 0 auto; color:white; } #DesarrolloSoftware{color: white;}
