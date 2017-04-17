@@ -118,6 +118,18 @@ p{
 	font-size:200;
 }
 
+#Autores2{
+	list-style:none; /*Quitamos las viñetas de la Lista <li>*/
+	width: 870px;
+	height: 500px;
+	background-color:#A4A4A4;
+	margin: 0 auto;
+	font-family: 'Arial';
+	font-style: normal;
+	font-weight: 50;
+	font-size:200;
+}
+
 #Conocer{	width: 910px; height: 610px; background-color:#00FFFF; margin: 0 auto;}
 #proceso{ 	width: 910px; height: 720px; background-color:#FA8258; color:white; margin: 0 auto;}
 #presman{  	width: 910px; height: 600px; background-color:#00FF40; margin: 0 auto;}
@@ -143,4 +155,6 @@ p{
 #datos{font-family: 'Arial'; font-style: normal; font-weight: 50; font-size:200; line-height: 100px;}
 #Rdatos{font-family: 'Arial'; font-style: normal; font-weight: 50; font-size:200; line-height: 100px;}
 
-th{ vertical-align:top; text-align:left; line-height:50px; margin-left:25px; margin-right:10px; }
+th{ vertical-align:top; text-align:left; line-height:40px; margin-left:25px; margin-right:10px; }
+
+td{ vertical-align:top; text-align:left; line-height:50px; margin-left:25px; margin-right:10px; }
