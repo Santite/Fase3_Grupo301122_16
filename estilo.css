@@ -110,7 +110,7 @@ p{
 #Autores{
 	list-style:none; /*Quitamos las viñetas de la Lista <li>*/
 	width: 870px;
-	height: 500px;
+	height: 600px;
 	background-color:#FF8000;
 	margin: 0 auto;
 	font-family: 'Arial';
@@ -124,6 +124,28 @@ p{
 	width: 870px;
 	height: 500px;
 	background-color:#A4A4A4;
+	margin: 0 auto;
+	font-family: 'Arial';
+	font-style: normal;
+	font-weight: 50;
+	font-size:200;
+}
+
+#Actividades1{
+	width: 970px;
+	height: 600x;
+	background-color:#FF8000;
+	margin: 0 auto;
+	font-family: 'Arial';
+	font-style: normal;
+	font-weight: 50;
+	font-size:200;
+}
+
+#Actividade2{
+	width: 970px;
+	height: 600x;
+	background-color:#0000FF;
 	margin: 0 auto;
 	font-family: 'Arial';
 	font-style: normal;
@@ -162,3 +184,4 @@ p{
 th{ vertical-align:top; text-align:left; line-height:40px; margin-left:25px; margin-right:10px; }
 
 td{ vertical-align:top; text-align:left; line-height:50px; margin-left:25px; margin-right:10px; }
+
